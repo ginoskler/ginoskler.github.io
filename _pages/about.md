@@ -16,5 +16,6 @@ I am interested in the intersection of pure mathematics with our world's major i
 
 Recent Coursework
 ======
-Spring 2023: Introduction to Artificial Intelligence, Introduction to Differential Geometry, Analysis of Algorithms
+Spring 2023: Introduction to Artificial Intelligence, Introduction to Differential Geometry, Analysis of Algorithms 
+
 Fall 2022: Introduction to Analysis, Topology I, Linear Algebra
