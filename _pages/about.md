@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Washington University in St. Louis in the Data Analytics and Statistics Masters Program at the McKelvey School of Engineering.
+I am a graduate student at Washington University in St. Louis in the Data Analytics and Statistics Masters Program at the McKelvey School of Engineering. I am advised by Dr. Ben Wormleighton.
 
 Research Interests
 ======
-I am interested in the intersection of mathematics with our world's major issues such as climate change and political instability. A deep understanding of relevant data is at the heart of ensuring that those working directly on solving these problems are doing so in the most effective way. I hope to contribute to the body of knowledge of newly emerging techniques such as topological data analysis and algebraic statistics.
+I am interested in the intersection of mathematics with our world's major issues such as climate change and political instability. A deep understanding of relevant data is at the heart of ensuring that those working directly on solving these problems are doing so in the most effective way. My research currently focuses on topological data analysis.
 
 Recent Coursework
 ======
