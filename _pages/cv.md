@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: NSIN X-Force Fellow
+  * NSWC Crane
+  * Duties included: developing an app to track online sentiments about US military activity
+
+* Spring 2023: Research Assistant
+  * Washington University in St. Louis
+  * Duties included: cleaning data on sanskrit grammar, building an app to distribute it
+  * Supervisor: Professor Ian Hollenbaugh
   
 Skills
 ======
