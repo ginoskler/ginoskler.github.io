@@ -12,7 +12,7 @@ I am a graduate student at Washington University in St. Louis in the Data Analyt
 
 Research Interests
 ======
-I am interested in developing novel ways of applying mathematical tools to complex real-world systems such as climate and urban planning. A deep understanding of relevant data is at the heart of ensuring that those working directly on solving these problems are doing so in the most effective way. My research currently focuses on topological data analysis.
+I am interested in applied mathematics for statistical questions about complex real-world systems such as climate and urban planning. A deep understanding of relevant data is at the heart of ensuring that those working directly on solving these problems are doing so in the most effective way. My research currently focuses on topological data analysis.
 
 Recent Coursework
 ======
