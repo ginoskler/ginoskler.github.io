@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Washington University in St. Louis in the Data Analytics and Statistics Masters Program at the McKelvey School of Engineering. I am advised by Dr. Ben Wormleighton.
+I am a graduate student at Washington University in St. Louis in the Data Analytics and Statistics Masters Program at the McKelvey School of Engineering. I am advised by [Dr. Ben Wormleighton](https://sites.google.com/view/benw/).
 
 Research Interests
 ======
