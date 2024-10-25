@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Webster University, 2022
 * M.S. in Data Analytics and Statistics, Washington University in St. Louis, 2025 (expected)
+* B.S. in Mathematics, Webster University, 2022
 
 
 Work experience
 ======
 * Summer 2024: Graduate R&D Intern
   * Sandia National Laboratories
+  * Duties included: designing and implementing an information geometry-based hypothesis testing algorithm
   
 * Summer 2023: NSIN X-Force Fellow
   * NSWC Crane
