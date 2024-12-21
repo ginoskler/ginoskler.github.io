@@ -2,7 +2,7 @@
 title: "Assistant Instructor"
 collection: teaching
 type: "ESE 415 Optimization"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Washington University"
 date: Spring 2025
 location: "St. Louis, MO"
