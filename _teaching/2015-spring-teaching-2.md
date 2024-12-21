@@ -4,7 +4,7 @@ collection: teaching
 type: "ESE 415 Optimization"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Washington University"
-date: Spring 2025
+date: 2025-08-01
 location: "St. Louis, MO"
 ---
 
