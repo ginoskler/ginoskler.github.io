@@ -8,7 +8,7 @@ date: Spring 2025
 location: "St. Louis, MO"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+TA for Ben Wormleighton's mathematical optimization course. Held office hours and monitored the course forum to aid students' understanding of both optimization theory and practical implementation considerations.
 
 Heading 1
 ======
