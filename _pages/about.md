@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at Washington University in St. Louis in the Data Analytics and Statistics program at the McKelvey School of Engineering, advised by [Dr. Ben Wormleighton](https://sites.google.com/view/benw/). Recently, I have joined [NREL](nrel.gov) to support their work in concentrated solar power systems.
+I am a master's student at Washington University in St. Louis in the Data Analytics and Statistics program at the McKelvey School of Engineering, advised by [Dr. Ben Wormleighton](https://sites.google.com/view/benw/). Recently, I have joined [NREL](https://nrel.gov) to support their work in concentrated solar power systems.
 
 Research Interests
 ======
