@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at Washington University in St. Louis in the Data Analytics and Statistics program at the McKelvey School of Engineering, advised by [Dr. Ben Wormleighton](https://sites.google.com/view/benw/). Recently, I have joined [NREL](https://nrel.gov) to support their work in concentrated solar power systems.
+I have recently graduated with my master's in statistics from Washington University in St. Louis, where my advisor was [Dr. Ben Wormleighton](https://sites.google.com/view/benw/home?authuser=0). I am currently a post-graduate intern at [NREL](https://nrel.gov) supporting their work in concentrated solar power systems.
 
 Research Interests
 ======
-I am interested in applied geometry and topology across many computational and scientific fields. My research currently focuses on topological data analysis. In particular, I am interested in how persistence diagrams, one of many possible topological descriptors of data, can be used within common statistical procedures like hypothesis testing.
+I am interested in applied geometry and analysis across many computational and scientific fields. In past projects, I have worked on information geometry, topological data analysis and Monte-Carlo simulations.
 
 Recent Coursework
 ======
