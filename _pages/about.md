@@ -12,7 +12,7 @@ I have recently graduated with my master's in statistics from Washington Univers
 
 Research Interests
 ======
-I am interested in applied geometry and analysis across many computational and scientific fields. In past projects, I have worked on information geometry, topological data analysis and Monte-Carlo simulations.
+I am interested in applied geometry and analysis across many computational and scientific fields. In past projects, I have worked on information geometry, topological data analysis, and Monte-Carlo simulations.
 
 Recent Coursework
 ======
@@ -28,4 +28,4 @@ Spring 2023: Introduction to Differential Geometry, Analysis of Algorithms
 
 Personal
 ======
-Away from the blackboard, I enjoy playing jazz piano, seeing live music, and practicing mixed martial arts.
+Away from the blackboard, I enjoy playing piano and bass guitar, seeing live music, and practicing mixed martial arts.
