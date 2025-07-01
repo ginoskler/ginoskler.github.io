@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Analytics and Statistics, Washington University in St. Louis, 2025 (expected)
+* M.S. in Data Analytics and Statistics, Washington University in St. Louis, 2025
+  * Thesis: The Little Diagram That Could: Geometric Properties and Statistical Applications of Persistence Diagrams in Topological Data Analysis 
 * B.S. in Mathematics, Webster University, 2022
 
 
 Work experience
 ======
+* Jan 2025-Present: Graduate R&D Intern
+  * National Renewable Energy Laboratory
+  * Duties included: Developing higher-fidelity analysis and prediction workflows for concentrated solar thermal power plant modeling
 * Summer 2024: Graduate R&D Intern
   * Sandia National Laboratories
   * Duties included: designing and implementing an information geometry-based hypothesis testing algorithm
