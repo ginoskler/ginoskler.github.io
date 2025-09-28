@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have recently graduated with my master's in statistics from Washington University in St. Louis, where my advisor was [Dr. Ben Wormleighton](https://sites.google.com/view/benw/home?authuser=0). I am currently a post-graduate intern at [NREL](https://nrel.gov) supporting their work in concentrated solar power systems. My mentor there is [Alex Zolan](https://research-hub.nrel.gov/en/persons/alex-zolan). I am currently seeking PhD opportunities in geometric analysis and measure theory.
+I have recently graduated with my master's in statistics from Washington University in St. Louis, where my advisor was [Dr. Ben Wormleighton](https://sites.google.com/view/benw/home?authuser=0). I am currently a post-graduate intern at [NREL](https://nrel.gov) supporting their work in concentrated solar power systems. My mentor there is [Dr. Alex Zolan](https://research-hub.nrel.gov/en/persons/alex-zolan). I am currently seeking PhD opportunities in geometric analysis and measure theory.
 
 Research Interests
 ======
