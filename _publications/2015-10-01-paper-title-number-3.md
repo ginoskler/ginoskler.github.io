@@ -8,7 +8,7 @@ venue: 'SolarPACES 2025'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Zolan, A., J. Sment, E. Kler, and W. Hamilton. (2025). &quot;An Uncertainty-informed and High-fidelity Performance Forecasting Framework for Heliostat Fields.&quot; <i>SolarPACES 2025</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+An online link to this poster presented at SolarPACES 2025 is forthcoming.
 
 [Link forthcoming](http://academicpages.github.io/files/paper3.pdf)
 
