@@ -2,7 +2,7 @@
 title: "An Uncertainty-informed and High-fidelity Performance Forecasting Framework for Heliostat Fields"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'An online link to this poster presented at SolarPACES 2025 is forthcoming.'
 date: 2025-08-27
 venue: 'SolarPACES 2025'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
