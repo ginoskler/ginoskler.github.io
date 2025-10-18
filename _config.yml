@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gino Kler"
   avatar           : "profile.png"
-  bio              : "Applied mathematician, musician, and urban explorician"
+  bio              : "Applied mathematician, musician, and outdoor explorician"
   location         : "Denver, CO"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "eugenekler"
-  orcid            : #"https://orcid.org/0009-0007-2630-2567"
+  orcid            : "https://orcid.org/0009-0007-2630-2567"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
