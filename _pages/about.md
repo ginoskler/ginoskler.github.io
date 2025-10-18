@@ -12,7 +12,7 @@ I have recently graduated with my master's in statistics from Washington Univers
 
 Research Interests
 ======
-I am interested in applied geometry and analysis across many computational and scientific fields. In past projects, I have worked on information geometry, topological data analysis, and Monte-Carlo simulations. I am currently interested in exploring minimal submanifolds; in particular, theoretical questions about the regularity of minimizing currents, and applied questions about nonsmooth optimization algorithms.
+I am interested in pure and applied geometric analysis. In past projects, I have worked on information geometry, topological data analysis, and Monte-Carlo simulations. I am currently interested in exploring minimal submanifolds; in particular, theoretical questions about the regularity of minimizing currents, and applied questions about nonsmooth optimization algorithms and numerical simulations.
 
 Recent Coursework
 ======
