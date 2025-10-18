@@ -21,6 +21,7 @@ Work experience
 * Jan 2025-Present: Graduate R&D Intern
   * National Renewable Energy Laboratory
   * Duties included: Developing higher-fidelity analysis and prediction workflows for concentrated solar thermal power plant modeling
+    
 * Summer 2024: Graduate R&D Intern
   * Sandia National Laboratories
   * Duties included: designing and implementing an information geometry-based hypothesis testing algorithm
@@ -36,12 +37,13 @@ Work experience
   
 Skills
 ======
-* Coursework in mathematical and Bayesian statistics
+* Coursework in pure and applied mathematics, statistics, and computer science
 * R/RStudio
   * Tidyverse
   * RShiny
 * Python
   * Pandas
+  * Numpy
   * NLTK
 * LaTeX
 
@@ -62,7 +64,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
