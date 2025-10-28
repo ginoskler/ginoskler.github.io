@@ -28,4 +28,4 @@ Spring 2023: Introduction to Differential Geometry, Analysis of Algorithms
 
 Personal
 ======
-Away from the blackboard, I enjoy playing piano and bass guitar, seeing live music, and practicing mixed martial arts.
+Away from the blackboard, I enjoy playing piano and bass guitar, seeing live music, and going on hikes.
