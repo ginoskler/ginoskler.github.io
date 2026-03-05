@@ -5,11 +5,9 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'An online link to this poster presented at SolarPACES 2025 is forthcoming.'
 date: 2025-08-27
 venue: 'SolarPACES 2025'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://docs.nlr.gov/docs/fy26osti/96986.pdf'
 citation: 'Zolan, A., J. Sment, E. Kler, and W. Hamilton. (2025). &quot;An Uncertainty-informed and High-fidelity Performance Forecasting Framework for Heliostat Fields.&quot; <i>SolarPACES 2025</i>. 1(3).'
 ---
-An online link to this poster presented at SolarPACES 2025 is forthcoming.
-
-[Link forthcoming](http://academicpages.github.io/files/paper3.pdf)
+[An Uncertainty-informed and High-fidelity Performance Forecasting Framework for Heliostat Fields](https://docs.nlr.gov/docs/fy26osti/96986.pdf)
 
 Recommended citation: Zolan, A., J. Sment, E. Kler, and W. Hamilton. (2025). "An Uncertainty-informed and High-fidelity Performance Forecasting Framework for Heliostat Fields." <i>SolarPACES 2025</i>. 1(3).
