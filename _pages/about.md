@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an aspiring mathematician. I recently completed a post-graduate internship at [NLR](https://nrel.gov) supporting their work in concentrated solar power systems. My mentor there was [Dr. Alex Zolan](https://research-hub.nrel.gov/en/persons/alex-zolan). I hold a masters in statistics from Washington University in St. Louis, where my advisor was [Dr. Ben Wormleighton](https://sites.google.com/view/benw/home?authuser=0).
+I am an incoming graduate student at the University of Hamburg in the Department of Mathematics. I recently completed a post-graduate internship at [NLR](https://nrel.gov) supporting their work in concentrated solar power systems. My mentor there was [Dr. Alex Zolan](https://research-hub.nrel.gov/en/persons/alex-zolan). I hold a masters in statistics from Washington University in St. Louis, where my advisor was [Dr. Ben Wormleighton](https://sites.google.com/view/benw/home?authuser=0).
 
 Research Interests
 ======
@@ -16,7 +16,7 @@ I am interested in pure and applied geometric analysis. In past projects, I have
 
 Recent Coursework
 ======
-Fall 2026: Complex Variables, Numerical Analysis
+Fall 2026: TBD
 
 Personal
 ======
