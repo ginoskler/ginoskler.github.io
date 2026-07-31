@@ -47,6 +47,11 @@ Skills
   * Numpy
   * NLTK
 * LaTeX
+* Energy System Simulation Tools
+  * System Advisor Model
+  * SolTrace
+  * SolarPILOT
+* Office 365 Suite
 
 Publications
 ======
