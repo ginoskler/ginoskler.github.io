@@ -12,7 +12,7 @@ I am an incoming graduate student at the [University of Hamburg](https://www.uni
 
 Research Interests
 ======
-I am interested in pure and applied geometric analysis. In past projects, I have worked on information geometry, topological data analysis, and Monte-Carlo simulations.
+I am interested in applied analysis, in particular the calculus of variations and multiscale modeling for materials in renewable energy technologies. In past projects, I have worked on information geometry, topological data analysis, and Monte-Carlo simulations.
 
 Recent Coursework
 ======
